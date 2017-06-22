@@ -1,0 +1,2 @@
+# xultrachat
+Social Network Wordpress Application about users chatting in chatting rooms to talk about whatever the room title is about, but before entering the chat rooms, the users need to register and login where they can also upload their wordpress profile picture; likewise, onto the application there will be groups to choose to chat. So, if there is any questions/doubts about this application don't hesitate on sending any feedback @ gweb1986@gmail.com 
